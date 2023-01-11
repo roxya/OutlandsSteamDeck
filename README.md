@@ -2,7 +2,7 @@
 This is a guide for running UO Outlands on Steam Deck using Bottles.
 
 - You won't have to use the command line
-- You won't have to disable Steam's read-only filesystem
+- You won't have to make changes to the operating system or disable Steam's read-only filesystem
 - It should continue to work after Steam Deck OS updates
 - It will work in game mode
 - You'll get 60 FPS without any stuttering
