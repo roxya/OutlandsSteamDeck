@@ -17,7 +17,7 @@ Go into Desktop Mode by holding the power button and select Switch to Desktop
 
 ![image](https://user-images.githubusercontent.com/7057924/211849244-f92af11b-bda4-4639-a85c-94ab85477f25.png)
 
-Open the Discover app and install
+Open the Discover app and search for and install these three applications
 
 - Bottles
 - Flatseal
