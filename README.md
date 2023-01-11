@@ -6,6 +6,7 @@ This is a guide for running UO Outlands on Steam Deck using Bottles.
 - It should continue to work after Steam Deck OS updates
 - It will work in game mode
 - You'll get 60 FPS without any stuttering
+- **Does not work on the beta client**
 
 # Download Outlands
 
