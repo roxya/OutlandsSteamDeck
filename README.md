@@ -27,7 +27,7 @@ Open the Discover app and search for and install these three applications
 
 ## Setting permissions on the home directory
 
-In order to install Outlands to Home instead of the bottle itself, we need to allow Bottles to access the Home directory. The advantage of installing to Home is that it's easy to access if you need to edit/delete files, copy or backup profiles, etc. It also allows us to start over with the bottle if anything goes wrong, without having to download Outlands again.
+In order to install Outlands to Home instead of the bottle itself, we need to allow Bottles to access the Home directory. The advantage of installing to Home is that it's easy to access if you need to edit/delete files, copy or backup profiles, etc. It also allows us to start over with the bottle if anything goes wrong, without the launcher having to download the Outlands game files again.
 
 Open the Flatseal app, select Bottles from the left side. Scroll down on the right side until you get to the Filesystem section and enable "All user files"
 
