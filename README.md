@@ -1,5 +1,5 @@
 # OutlandsSteamDeck
-This is a guide for running UO Outlands on Steam Deck using Bottles.
+This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free to contact me on Discord (**roxya#2313**) if you have issues or questions. 
 
 - You won't have to use the command line
 - You won't have to make changes to the operating system or disable Steam's read-only filesystem
