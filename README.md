@@ -61,7 +61,7 @@ Once the bottle has been created, click on it to open it. Go into Settings and s
 
 Also make sure DXVK is set to ``dxvk-1.10.3``
 
-![image](https://user-images.githubusercontent.com/7057924/213031110-1838ada6-8251-4d4a-b53a-f1213f4ad159.png)
+![image](https://user-images.githubusercontent.com/7057924/213031466-45597a70-9d5f-4101-892f-73552257f386.png)
 
 Click the arrow in the top-left corner to return to the main page for the bottle, and then go into Dependencies.
 
