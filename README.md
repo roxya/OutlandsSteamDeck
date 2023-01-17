@@ -37,6 +37,15 @@ Open the Flatseal app, select Bottles from the left side. Scroll down on the rig
 
 ![image](https://user-images.githubusercontent.com/7057924/211853689-64a66650-3b27-4784-becc-d5ef0221ef70.png)
 
+## Bottles Preferences
+
+Open the Bottles app and use the hamburger menu at the top to enter Preferences
+![image](https://user-images.githubusercontent.com/7057924/213030598-8da0dc03-4dc2-44f0-a26a-1d11429a8b8c.png)
+
+Go to the DLL Components tab and ensure dxvk-1.10.3 is installed. If it's installed you'll see a folder icon, a download icon if not (click the download icon to install)
+
+![image](https://user-images.githubusercontent.com/7057924/213030781-c306cfea-2573-4f08-8c2d-9845b956e536.png)
+
 ## Preparing the bottle
 
 Open the Bottles app and press the + in the top-left corner to create a new bottle. Choose a name, make sure Gaming is selected, and press the blue Create button.
@@ -49,16 +58,20 @@ Once the bottle has been created, click on it to open it. Go into Settings and s
 
 ![image](https://user-images.githubusercontent.com/7057924/211856318-8187509c-c903-4e9d-94a4-af087ba1f767.png)
 
+Also make sure DXVK is set to ``dxvk-1.10.3``
+
+![image](https://user-images.githubusercontent.com/7057924/213031110-1838ada6-8251-4d4a-b53a-f1213f4ad159.png)
+
 Click the arrow in the top-left corner to return to the main page for the bottle, and then go into Dependencies.
 
 ![image](https://user-images.githubusercontent.com/7057924/211856473-83f06fff-1008-48a2-b9ab-71ed8e300bef.png)
 
-Click the download icon next to each of these dependencies
+Click the download icon next to each of these dependencies in order.
 
-- d3dx11
-- dotnet40 (will take longer than the others, wait for it)
-- gdiplus
-- mono
+1. d3dx11
+2. dotnet40 (will take longer than the others, wait for it)
+3. gdiplus
+4. mono
 
 ![image](https://user-images.githubusercontent.com/7057924/211856760-00a398b1-e433-4b7c-bb72-02f29cab8760.png)
 
