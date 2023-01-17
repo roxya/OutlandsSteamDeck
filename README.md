@@ -40,6 +40,7 @@ Open the Flatseal app, select Bottles from the left side. Scroll down on the rig
 ## Bottles Preferences
 
 Open the Bottles app and use the hamburger menu at the top to enter Preferences
+
 ![image](https://user-images.githubusercontent.com/7057924/213030598-8da0dc03-4dc2-44f0-a26a-1d11429a8b8c.png)
 
 Go to the DLL Components tab and ensure dxvk-1.10.3 is installed. If it's installed you'll see a folder icon, a download icon if not (click the download icon to install)
