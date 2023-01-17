@@ -56,7 +56,7 @@ Click the arrow in the top-left corner to return to the main page for the bottle
 Click the download icon next to each of these dependencies
 
 - d3dx11
-- dotnet48 (will take longer than the others, wait for it)
+- dotnet40 (will take longer than the others, wait for it)
 - gdiplus
 - mono
 
