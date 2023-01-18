@@ -9,7 +9,7 @@ This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free t
 - You'll get 60 FPS without any stuttering
 - **Does not work well on the beta client**. The wine-based runners (which achieve 60fps without stutter) don't work at all, and the default soda runner/other proton-based runners perform at around 30FPS with severe stuttering.
 
-# Download Outlands
+## Download Outlands
 
 Start by downloading the Outlands launcher/installer from https://uooutlands.com/connecting/
 
