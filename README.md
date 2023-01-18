@@ -1,6 +1,8 @@
 # OutlandsSteamDeck (WORK IN PROGRESS)
 
-## This guide worked for me but some people are unable to launch it this way. The cause is currently unknown.
+## Alternative/simpler method which needs testing!
+
+Please try https://github.com/roxya/OutlandsSteamDeck/blob/main/ALT-Vaniglia.md
 
 This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free to contact me on Discord (**roxya#2313**) if you have issues or questions. 
 
