@@ -55,7 +55,9 @@ Once the bottle has been created, click on it to open it. Go into Settings and s
 
 ![image](https://user-images.githubusercontent.com/7057924/211856264-d40b8b4b-0339-4763-bd8b-d6164ae023ce.png)
 
-![image](https://user-images.githubusercontent.com/7057924/211856318-8187509c-c903-4e9d-94a4-af087ba1f767.png)
+![image](https://user-images.githubusercontent.com/7057924/213136588-7a3a4b1d-1ad0-4000-a381-ec8a6c476d02.png)
+
+LatencyFlex should say Disabled by default. If not, change it to Disabled.
 
 Click the arrow in the top-left corner to return to the main page for the bottle
 
