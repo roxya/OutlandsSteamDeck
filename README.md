@@ -1,9 +1,5 @@
 # OutlandsSteamDeck (WORK IN PROGRESS)
 
-## Alternative/simpler method which needs testing!
-
-Please try https://github.com/roxya/OutlandsSteamDeck/blob/main/ALT-Vaniglia.md
-
 ## Intro
 
 This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free to contact me on Discord (**roxya#2313**) if you have issues or questions. 
@@ -13,7 +9,6 @@ This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free t
 - It should continue to work after Steam Deck OS updates
 - It will work in game mode
 - You'll get 60 FPS without any stuttering
-- **Does not work well on the beta client**. The sys-wine and other wine-based runner I recommend doesn't work at all, and the default soda runner/other proton-based runners perform at around 30FPS with severe stuttering.
 
 ## Download Outlands
 
@@ -41,46 +36,19 @@ Open the Flatseal app, select Bottles from the left side. Scroll down on the rig
 
 ![image](https://user-images.githubusercontent.com/7057924/211853689-64a66650-3b27-4784-becc-d5ef0221ef70.png)
 
-## Bottles Preferences
-
-Open the Bottles app and use the hamburger menu at the top to enter Preferences
-
-![image](https://user-images.githubusercontent.com/7057924/213030598-8da0dc03-4dc2-44f0-a26a-1d11429a8b8c.png)
-
-Go to the DLL Components tab and ensure dxvk-1.10.3 is installed. If it's installed you'll see a folder icon, a download icon if not (click the download icon to install)
-
-![image](https://user-images.githubusercontent.com/7057924/213030781-c306cfea-2573-4f08-8c2d-9845b956e536.png)
-
 ## Preparing the bottle
 
 Open the Bottles app and press the + in the top-left corner to create a new bottle. Choose a name, make sure Gaming is selected, and press the blue Create button.
 
 ![image](https://user-images.githubusercontent.com/7057924/211854750-38213ce9-19fe-44cb-b992-e147db1205f6.png)
 
-Once the bottle has been created, click on it to open it. Go into Settings and switch the runner from ``soda`` to ``sys-wine``. It will take a short while.
+Once the bottle has been created, click on it to open it. Go into Settings and scroll down to the Compatibility section. Click on `DLL Overrides`, add `tabtip.exe` as a new override, and set it to Disabled.
 
 ![image](https://user-images.githubusercontent.com/7057924/211856264-d40b8b4b-0339-4763-bd8b-d6164ae023ce.png)
 
-![image](https://user-images.githubusercontent.com/7057924/211856318-8187509c-c903-4e9d-94a4-af087ba1f767.png)
+![image](https://user-images.githubusercontent.com/7057924/213929329-512f2f5f-dad9-432f-9977-74b3538520d3.png)
 
-Also make sure DXVK is set to ``dxvk-1.10.3``
-
-![image](https://user-images.githubusercontent.com/7057924/213031466-45597a70-9d5f-4101-892f-73552257f386.png)
-
-Click the arrow in the top-left corner to return to the main page for the bottle, and then go into Dependencies.
-
-![image](https://user-images.githubusercontent.com/7057924/211856473-83f06fff-1008-48a2-b9ab-71ed8e300bef.png)
-
-Click the download icon next to each of these dependencies in order.
-
-1. d3dx11
-2. dotnet40 (will take longer than the others, wait for it)
-3. gdiplus
-4. mono
-
-![image](https://user-images.githubusercontent.com/7057924/211856760-00a398b1-e433-4b7c-bb72-02f29cab8760.png)
-
-Click the arrow in the top-left corner to return to the main page for the bottle
+Click the arrow in the top-left corner to return to the main page for the bottle.
 
 ## Installing Outlands
 
