@@ -1,4 +1,4 @@
-# OutlandsSteamDeck (WORK IN PROGRESS)
+# Outlands on Steam Deck
 
 ## Intro
 
