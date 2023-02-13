@@ -36,13 +36,28 @@ Open the Flatseal app, select Bottles from the left side. Scroll down on the rig
 
 ![image](https://user-images.githubusercontent.com/7057924/211853689-64a66650-3b27-4784-becc-d5ef0221ef70.png)
 
+## Bottles preferences
+
+Open the bottles app and enter the Preferences window.
+
+![image](https://user-images.githubusercontent.com/7057924/218490923-e9cadd87-27c0-43f9-aa7d-9b928584d083.png)
+
+On the Runners tab, click Soda and download `Soda 7.0-8` if not already downloaded.
+
+![image](https://user-images.githubusercontent.com/7057924/218491662-b1aa6f9b-790e-4b7e-a129-2dc3eecc91ed.png)
+
+
 ## Preparing the bottle
 
-Open the Bottles app and press the + in the top-left corner to create a new bottle. Choose a name, make sure Gaming is selected, and press the blue Create button.
+At the Bottles home screen, press the + in the top-left corner to create a new bottle. Choose a name, make sure Gaming is selected, and press the blue Create button.
 
 ![image](https://user-images.githubusercontent.com/7057924/211854750-38213ce9-19fe-44cb-b992-e147db1205f6.png)
 
-Once the bottle has been created, click on it to open it. Go into Settings and scroll down to the Compatibility section. Click on `DLL Overrides`, add `tabtip.exe` as a new override, and set it to Disabled.
+Once the bottle has been created, click on it to open it. Go into Settings and change the runner to `Soda 7.0-8`
+
+![image](https://user-images.githubusercontent.com/7057924/218492072-d8cf3cb8-93a2-45e0-99ce-3f05a1cb03d8.png)
+
+Scroll down to the Compatibility section. Click on `DLL Overrides`, add `tabtip.exe` as a new override, and set it to Disabled.
 
 ![image](https://user-images.githubusercontent.com/7057924/211856264-d40b8b4b-0339-4763-bd8b-d6164ae023ce.png)
 
