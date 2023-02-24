@@ -12,6 +12,7 @@ This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free t
 
 ## Guide
 
+- [Download Outlands](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#download-outlands)
 - [Installing required software](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#installing-required-software)
 - [Setting permissions on the home directory](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#setting-permissions-on-the-home-directory)
 - [Bottles preferences](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#bottles-preferences)
