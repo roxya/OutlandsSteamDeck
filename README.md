@@ -10,6 +10,17 @@ This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free t
 - It will work in game mode
 - You'll get 60 FPS without any stuttering
 
+## Table of Contents
+
+- [Installing required software](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#installing-required-software)
+- [Setting permissions on the home directory](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#setting-permissions-on-the-home-directory)
+- [Bottles preferences](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#bottles-preferences)
+- [Preparing the bottle](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#preparing-the-bottle)
+- [Installing Outlands](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#installing-outlands)
+- [Adding the shortcut](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#adding-the-shortcut)
+- [Adding Outlands to Game Mode](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#adding-outlands-to-game-mode)
+- [Running in Game Mode](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#game-mode)
+
 ## Download Outlands
 
 Start by downloading the Outlands launcher/installer from https://uooutlands.com/connecting/
@@ -123,7 +134,7 @@ Now go back to the Import Games screen and make sure Outlands is selected. Then 
 
 A message will appear confirming that it has imported the selected games.
 
-## Game mode
+## Running in Game mode
 
 Use the desktop icon to Return to Gaming Mode. You should find Outlands in your library under the Non-steam games category. Simply run it and it should open. You'll need to use the mouse (hold the Steam button and use the right trackpad or stick) to press Play Now.
 
