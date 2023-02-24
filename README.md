@@ -55,7 +55,7 @@ At the Bottles home screen, press the + in the top-left corner to create a new b
 
 Once the bottle has been created, click on it to open it. Go into Settings and change the runner to `Soda 7.0-8`
 
-![image](https://user-images.githubusercontent.com/7057924/218492072-d8cf3cb8-93a2-45e0-99ce-3f05a1cb03d8.png)
+![image](https://user-images.githubusercontent.com/7057924/221146564-fc62c963-791c-4850-8441-f3dd8a898499.png)
 
 Scroll down to the Compatibility section. Click on `DLL Overrides`, add `tabtip.exe` as a new override, and set it to Disabled.
 
@@ -69,7 +69,7 @@ Click the arrow in the top-left corner to return to the main page for the bottle
 
 Press the blue Run Executable button and select the Outlands.exe file downloaded earlier
 
-![image](https://user-images.githubusercontent.com/7057924/211857479-c84bc2ee-413b-4660-9a10-d4f8c5c13323.png)
+![image](https://user-images.githubusercontent.com/7057924/221147083-e53981d9-8288-4496-9c10-c8096e2e3c31.png)
 
 ![image](https://user-images.githubusercontent.com/7057924/211857617-173cc745-77f4-417e-84f3-f194c0fe5de2.png)
 
@@ -91,7 +91,7 @@ Press OK to install. When it finishes and you can see the Play Now button, close
 
 On the main page for the bottle, click the Add Shortcuts button and browse to ``Outlands.exe`` in Home/Ultima Online Outlands (**not** the Outlands.exe in your Downloads folder) and press Add.
 
-![image](https://user-images.githubusercontent.com/7057924/211859724-6becadcf-39f1-4920-a990-8d3a0ea34d72.png)
+![image](https://user-images.githubusercontent.com/7057924/221147552-11ecc9f7-112d-4e0d-93f7-fba9731e2eb3.png)
 
 ![image](https://user-images.githubusercontent.com/7057924/211859967-26d32220-d681-4f40-ac8d-da960e5670a4.png)
 
@@ -127,8 +127,14 @@ A message will appear confirming that it has imported the selected games.
 
 Use the desktop icon to Return to Gaming Mode. You should find Outlands in your library under the Non-steam games category. Simply run it and it should open. You'll need to use the mouse (hold the Steam button and use the right trackpad or stick) to press Play Now.
 
-When ClassicUO launches, you may find that the Razor window is taking up the whole screen. Press the Steam button and you should see the ``Switch Windows`` section showing Razor and ClassicUO. Select ClassicUO and you should see the login screen.
+### When ClassicUO launches, you may find that the Razor window is taking up the whole screen.
 
-If window switching doesn't appear to work, exit the game and into Steam Deck settings (Steam button, Settings). In the System page, use the ``Enable Developer Mode`` option. You should now be able to use window switching to switch between ClassicUO and Razor.
+Press the Steam button and you should see the ``Switch Windows`` section showing Razor and ClassicUO. Select ClassicUO and you should see the login screen.
 
-If ClassicUO has black borders on the left and right sides, go into ClassicUO's options, Video, and enable Borderless Window.
+#### If window switching doesn't appear to work
+
+Exit the game and go into Steam Deck settings (Steam button, Settings). In the System page, use the ``Enable Developer Mode`` option. You should now be able to use window switching to switch between ClassicUO and Razor.
+
+### If ClassicUO has black borders on the left and right sides
+
+Go into ClassicUO's options, Video, and enable Borderless Window.
