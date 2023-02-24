@@ -10,7 +10,7 @@ This is a guide for running UO Outlands on Steam Deck using Bottles. Feel free t
 - It will work in game mode
 - You'll get 60 FPS without any stuttering
 
-## Table of Contents
+## Guide
 
 - [Installing required software](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#installing-required-software)
 - [Setting permissions on the home directory](https://github.com/roxya/OutlandsSteamDeck/blob/main/README.md#setting-permissions-on-the-home-directory)
